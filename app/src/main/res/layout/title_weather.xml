@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/title_drawerIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/title_more"
+            android:layout_centerVertical="true"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="杭州"
+            android:textColor="@color/silver_white"
+            android:layout_toRightOf="@id/title_drawerIV"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:textSize="18sp"/>
+    </RelativeLayout>
+</RelativeLayout>

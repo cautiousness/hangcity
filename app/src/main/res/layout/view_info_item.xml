@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.fuj.hangcity.widget.ScrollChildSwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipeRL"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_white">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/commRV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</com.fuj.hangcity.widget.ScrollChildSwipeRefreshLayout>

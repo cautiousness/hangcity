@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">杭城通</string>
+
+    <!-- title -->
+    <string name="title_weather">天气</string>
+    <string name="title_scenic">景区</string>
+
+    <!-- bottom -->
+    <string name="bottom_weather">天气</string>
+    <string name="bottom_info">资讯</string>
+    <string name="bottom_scenic">景点</string>
+    <string name="bottom_user">个人</string>
+
+    <!-- dialog -->
+    <string name="dialog_loadingIV">加载图片</string>
+    <string name="dialog_loading">正在加载&#8230;</string>
+
+    <!-- ic_info view xml -->
+    <string name="info_title">  %1$s</string>
+
+    <!-- splash -->
+    <string name="splash_timeTV">%1$s秒后跳转</string>
+
+    <!-- webimage view xml -->
+    <string name="webimage_saveTV">保存</string>
+
+    <!-- scenic detail view xml -->
+    <string name="scenic_detail_addr">目的地</string>
+    <string name="scenic_detail_me">起始地</string>
+    <string name="scenic_detail_car">驾车</string>
+    <string name="scenic_detail_bus">公交</string>
+    <string name="scenic_detail_walk">步行</string>
+    <string name="scenic_detail_myaddr">我的位置</string>
+    <string name="scenic_detail_city">杭州</string>
+
+    <!-- scenic view xml -->
+    <string name="scenic_addr">地址:%1$s</string>
+    <string name="scenic_grade">等级:%1$s</string>
+    <string name="scenic_price">门票:%1$s</string>
+    <string name="scenic_bundle">addr</string>
+
+    <!-- weather view xml -->
+    <string name="weather_tempCVTitleTV">7天预报</string>
+    <string name="weather_hourlyTitleTV">24小时预报</string>
+    <string name="weather_humidityTV">空气湿度 %1$d</string>
+    <string name="weather_updateTimeTV">%1$s更新</string>
+    <string name="weather_tempertureTV">%1$d°</string>
+    <string name="weather_weatherTV">%1$s</string>
+    <string name="weather_windTV">%1$s%2$s级</string>
+    <string name="weather_indexTitleTV">指数</string>
+    <string name="gv_itemTV">%1$s\n%2$s</string>
+
+    <!-- user view xml -->
+    <string name="user_option_game">游戏</string>
+    <string name="user_name">未登录</string>
+    <string name="user_quit">退出登录</string>
+
+    <!-- error -->
+    <string name="error_load_failed">加载失败</string>
+
+    <!-- toast -->
+    <string name="toast_download_success">保存成功</string>
+    <string name="toast_locate_failed">定位失败,请检查GPS定位是否开启</string>
+    <string name="toast_search_null">未搜索到结果</string>
+
+    <string name="actionbar_activity_not_found">Failed to open intent&#8230;</string>
+</resources>

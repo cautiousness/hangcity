@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c96ff</color>
+    <color name="colorPrimaryDark">#2c96ff</color>
+    <color name="colorAccent">#2c96ff</color>
+
+    <color name="trans">#00000000</color>
+    <color name="transparent">#3C000000</color>
+    <color name="pink">#a7072d</color>
+    <color name="pink_dark">#73011c</color>
+    <color name="red">#ab0909</color>
+    <color name="red_light">#f93f25</color>
+    <color name="white">#ffffff</color>
+    <color name="white_trans">#20f0f0f0</color>
+    <color name="silver">#f0f4f9</color>
+    <color name="green_trans">#a0d985</color>
+    <color name="green">#44d500</color>
+    <color name="green_dark">#35a600</color>
+    <color name="gray">#5e5d5d</color>
+    <color name="gray_light">#979797</color>
+    <color name="gray_white">#dfdfdf</color>
+    <color name="silver_white">#f7f7f7</color>
+    <color name="gray_white_trans">#30dfdfdf</color>
+    <color name="black">#000000</color>
+    <color name="black_trans">#c0000000</color>
+    <color name="blue">#2c96ff</color>
+    <color name="blue_trans">#e02c96ff</color>
+    <color name="navy_dark">#2B5E79</color>
+    
+    <color name="primary">#FF03A9F4</color>
+    <color name="status_bar_color">#FF0288D1</color>
+    
+    <color name="track_route_nomal">#00FF00</color>
+    <color name="track_route_warn">#FFFF00</color>
+    <color name="track_route_error">#FF0000</color>
+
+    <color name="bg_bottom">#f8f8f8</color>
+    <color name="bg_indicator">#2c96ff</color>
+</resources>
